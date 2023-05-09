@@ -26,7 +26,7 @@ function IntroVideo() {
         </video>
     <div className="text-overlay">
         <div className='trustIntroText'>Your Trusted Toronto Dentists </div>
-        <div className='superiorText'> Superior care for all  </div>
+        <div className='superiorText'> Excellent care for all  </div>
         <a href="/book-online" className='bookOnlineTitleText'>Book Online</a>
         <p className='callText'> OR CALL (012) 345-6789 </p>
     </div>
