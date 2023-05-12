@@ -860,6 +860,7 @@ h3{
     flex-direction: column;
     margin-bottom: 5rem;
     row-gap: 1rem;
+    margin-top: 1rem;
    }
  .eightBody{
   display: flex;
