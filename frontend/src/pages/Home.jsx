@@ -95,7 +95,7 @@ function Home() {
     <div className="thirdBody">
       <div>
         <div className='thirdBodyTitle'> Complete treatment options, all in <br/> one location. </div>
-        <div className={`subHeadingContainers ${isContentVisible ? 'visible' : ''}`} ref={contentRef}> 
+        <div className="subHeadingContainers"> 
           <div  className='subHeading'> 
             <div> <img src={pic1} alt ="dentist talking to patient" className='threeImages' loading="lazy"/>  </div>
             <div className='subHeadingTitle'> General </div>
