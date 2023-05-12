@@ -52,7 +52,7 @@ function Home() {
     
     </div>
     <div className='firstBody'>
-      <div className= {`firstBodyTextContainer ${isContentVisible ? 'visible' : ''}`} ref={contentRef}>
+      <div className= "firstBodyTextContainer">
         <div className="firstBodyText"> 
           <div className="firstBodyTitle">  Dentistry Done Correct </div>
           <div className='forAll'> We provide dental care for patients of all ages with: </div>
