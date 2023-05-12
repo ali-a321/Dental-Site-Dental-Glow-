@@ -304,14 +304,9 @@ a:visited{
   padding-right: 5%;
   padding-bottom: 6%;
   padding-left: 5%;
-  opacity: 0;
-  transform: translateY(50px);
-  transition: all 0.5s ease-out;
+ 
 }
-.firstBodyTextContainer.visible{
-  opacity: 1;
-  transform: translateY(0);
-}
+
 @media (max-width: 980px) {
   .firstBodyTextContainer{
     display: flex;
